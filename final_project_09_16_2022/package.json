@@ -1,0 +1,12 @@
+{
+  "name": "final_project_09_16_2022",
+  "version": "1.0.0",
+  "main": "index.html",
+  "license": "MIT",
+  "scripts":{
+    "watch:scss": "node-sass -w styles/style.scss styles/style.css"
+  },
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
